@@ -41,5 +41,10 @@ public class Aluno extends Pessoa{
 	public boolean verificarAprovada(){
 		return true;
 	}
+	
+	public void metodoQualquer(){
+		this.setCpf("51651651");
+		super.setCpf("561818");
+	}
 
 }	
