@@ -50,7 +50,7 @@ public class Aluno{
 		
 		return "";
 	}
-	//@Override
+
 	public void metodoAbstrato() {
 		// TODO Auto-generated method stub
 		

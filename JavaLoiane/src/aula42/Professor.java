@@ -28,7 +28,7 @@ public class Professor{
 	public double calcularSalarioLiquido() {
 		return 0;
 	}
-	//@Override
+
 	public void metodoAbstrato() {
 		// TODO Auto-generated method stub
 		
